@@ -19,12 +19,12 @@ source ~/your/path/to/dirJump.sh
 
 ## Commands
 
-| command   | description                           |
-|-----------|---------------------------------------|
-| LL        | Lists all registered paths            |
-| SS <name> | Save current directory path as <name> |
-| DD <name> | Delete path <name>                    |
-| GG <name> | Go to path <name>                     |
+| command     | description                             |
+|-------------|-----------------------------------------|
+| `LL`        | Lists all registered paths              |
+| `SS <name>` | Save current directory path as `<name>` |
+| `DD <name>` | Delete path `<name>`                    |
+| `GG <name>` | Go to path `<name>`                     |
 
 Example of the usage:  
 ```bash
