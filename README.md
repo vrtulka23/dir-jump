@@ -28,12 +28,12 @@ source ~/your/path/to/dirJump.sh
 
 Example of the usage:  
 ```bash
-~$ cd ~/my/precious
-~/my/precious$ SS precious
-~/my/precious$ cd ~
-~$ LL
+$ cd my/precious
+my/precious$ SS precious
+my/precious$ cd ~
+$ LL
 #!/bin/bash
 export precious=/Users/user/my/precious
-~$ GG precious
-~/my/precious$ 
+$ GG precious
+my/precious$ 
 ```
